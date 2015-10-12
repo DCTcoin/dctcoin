@@ -3,13 +3,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BitcoinDark</source>
-        <translation>BitcoinDark Hakkında</translation>
+        <source>About DiscountCoin</source>
+        <translation>DiscountCoin Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BitcoinDark&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;BitcoinDark&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;DiscountCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;DiscountCoin&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -63,8 +63,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BitcoinDark addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için BitcoinDark adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your DiscountCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için DiscountCoin adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BitcoinDark address</source>
-        <translation>Bir BitcoinDark adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a DiscountCoin address</source>
+        <translation>Bir DiscountCoin adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BitcoinDark address</source>
-        <translation>Mesajın, belirli bir BitcoinDark adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified DiscountCoin address</source>
+        <translation>Mesajın, belirli bir DiscountCoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>BitcoinDark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BitcoinDark, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>DiscountCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>DiscountCoin, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BitcoinDark</source>
-        <translation>BitcoinDark hakkındaki bilgiyi göster</translation>
+        <source>Show information about DiscountCoin</source>
+        <translation>DiscountCoin hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a BitcoinDark address</source>
-        <translation>Bir BitcoinDark adresine coin gönder</translation>
+        <source>Send coins to a DiscountCoin address</source>
+        <translation>Bir DiscountCoin adresine coin gönder</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for BitcoinDark</source>
-        <translation>BitcoinDark yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for DiscountCoin</source>
+        <translation>DiscountCoin yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>BitcoinDark</source>
-        <translation>BitcoinDark</translation>
+        <source>DiscountCoin</source>
+        <translation>DiscountCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About BitcoinDark</source>
-        <translation>BitcoinDark &amp;Hakkında</translation>
+        <source>&amp;About DiscountCoin</source>
+        <translation>DiscountCoin &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BitcoinDark client</source>
-        <translation>BitcoinDark istemcisi</translation>
+        <source>DiscountCoin client</source>
+        <translation>DiscountCoin istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BitcoinDark network</source>
-        <translation><numerusform>BitcoinDark ağına %n etkin bağlantı</numerusform><numerusform>BitcoinDark ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to DiscountCoin network</source>
+        <translation><numerusform>DiscountCoin ağına %n etkin bağlantı</numerusform><numerusform>DiscountCoin ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BitcoinDark address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir BitcoinDark adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid DiscountCoin address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir DiscountCoin adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BitcoinDark can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. BitcoinDark artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. DiscountCoin can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. DiscountCoin artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BitcoinDark address.</source>
-        <translation>Girilen %1 adresi, geçerli bir BitcoinDark adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid DiscountCoin address.</source>
+        <translation>Girilen %1 adresi, geçerli bir DiscountCoin adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BitcoinDark-Qt</source>
-        <translation>BitcoinDark-Qt</translation>
+        <source>DiscountCoin-Qt</source>
+        <translation>DiscountCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BitcoinDark after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra BitcoinDark&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start DiscountCoin after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra DiscountCoin&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BitcoinDark on system login</source>
-        <translation>Sisteme girişte BitcoinDark&apos;i &amp;başlat</translation>
+        <source>&amp;Start DiscountCoin on system login</source>
+        <translation>Sisteme girişte DiscountCoin&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BitcoinDark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide BitcoinDark istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the DiscountCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide DiscountCoin istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BitcoinDark network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>BitcoinDark ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
+        <source>Connect to the DiscountCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>DiscountCoin ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BitcoinDark.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, BitcoinDark yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DiscountCoin.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, DiscountCoin yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BitcoinDark addresses in the transaction list or not.</source>
-        <translation>BitcoinDark adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
+        <source>Whether to show DiscountCoin addresses in the transaction list or not.</source>
+        <translation>DiscountCoin adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BitcoinDark.</source>
-        <translation>Bu ayar, BitcoinDark&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
+        <source>This setting will take effect after restarting DiscountCoin.</source>
+        <translation>Bu ayar, DiscountCoin&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BitcoinDark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak BitcoinDark ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DiscountCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak DiscountCoin ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BitcoinDark-Qt help message to get a list with possible BitcoinDark command-line options.</source>
-        <translation>Muhtemel BitcoinDark komut satırı seçeneklerinin bir listesini getirmek için BitcoinDark-Qt yardım mesajını göster</translation>
+        <source>Show the DiscountCoin-Qt help message to get a list with possible DiscountCoin command-line options.</source>
+        <translation>Muhtemel DiscountCoin komut satırı seçeneklerinin bir listesini getirmek için DiscountCoin-Qt yardım mesajını göster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>BitcoinDark - Debug window</source>
-        <translation>BitcoinDark - Hata ayıklama penceresi</translation>
+        <source>DiscountCoin - Debug window</source>
+        <translation>DiscountCoin - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BitcoinDark Core</source>
-        <translation>BitcoinDark Core</translation>
+        <source>DiscountCoin Core</source>
+        <translation>DiscountCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BitcoinDark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>BitcoinDark hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the DiscountCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>DiscountCoin hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BitcoinDark RPC console.</source>
-        <translation>BitcoinDark RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the DiscountCoin RPC console.</source>
+        <translation>DiscountCoin RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Bir BitcoinDark adresi gir (örn: RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Bir DiscountCoin adresi gir (örn: RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BitcoinDark address</source>
-        <translation>UYARI: Geçersiz BitcoinDark adresi</translation>
+        <source>WARNING: Invalid DiscountCoin address</source>
+        <translation>UYARI: Geçersiz DiscountCoin adresi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Bir BitcoinDark adresi girin (örn: RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Bir DiscountCoin adresi girin (örn: RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BitcoinDark address</source>
-        <translation>Bu BitcoinDark adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this DiscountCoin address</source>
+        <translation>Bu DiscountCoin adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BitcoinDark address</source>
-        <translation>Mesajın, belirtilen BitcoinDark adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify the message to ensure it was signed with the specified DiscountCoin address</source>
+        <translation>Mesajın, belirtilen DiscountCoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Bir BitcoinDark adresi girin (örn: RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Bir DiscountCoin adresi girin (örn: RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BitcoinDark signature</source>
-        <translation>BitcoinDark imzası gir</translation>
+        <source>Enter DiscountCoin signature</source>
+        <translation>DiscountCoin imzası gir</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BitcoinDark version</source>
-        <translation>BitcoinDark versiyonu</translation>
+        <source>DiscountCoin version</source>
+        <translation>DiscountCoin versiyonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,8 +2623,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or BitcoinDarkd</source>
-        <translation>-sunucu veya BitcoinDarkd&apos;ye komut gönder</translation>
+        <source>Send command to -server or DiscountCoind</source>
+        <translation>-sunucu veya DiscountCoind&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2643,13 +2643,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: BitcoinDark.conf)</source>
-        <translation>Konfigürasyon dosyasını belirt (varsayılan: BitcoinDark.conf)</translation>
+        <source>Specify configuration file (default: DiscountCoin.conf)</source>
+        <translation>Konfigürasyon dosyasını belirt (varsayılan: DiscountCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: BitcoinDarkd.pid)</source>
-        <translation>pid dosyasını belirt (varsayılan: BitcoinDark.pid)</translation>
+        <source>Specify pid file (default: DiscountCoind.pid)</source>
+        <translation>pid dosyasını belirt (varsayılan: DiscountCoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BitcoinDark will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, BitcoinDark düzgün çalışmayacaktır.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DiscountCoin will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, DiscountCoin düzgün çalışmayacaktır.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,24 +2988,24 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=BitcoinDarkrpc
+rpcuser=DiscountCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;DiscountCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, konfigürasyon dosyasında bir rpcpassword belirlemelisiniz:
  %s
 Aşağıdaki rastgele parolayı kullanmanız tavsiye edilir:
-rpcuser=BitcoinDarkrpc
+rpcuser=DiscountCoinrpc
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekmemektedir)
 Kullanıcı adı ve parola aynı OLMAMALIDIR.
 Dosya mevcut değilse, dosyayı sadece-kullanıcı-okuyabilir dosya izniyle yaratınız.
 alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildirilir;
-örneğin: alertnotify=echo %%s | mail -s &quot;BitcoinDark Uyarısı&quot; admin@foo.com
+örneğin: alertnotify=echo %%s | mail -s &quot;DiscountCoin Uyarısı&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,12 +3130,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BitcoinDark is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  DiscountCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>BitcoinDark</source>
+        <source>DiscountCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3170,12 +3170,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BitcoinDark</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of DiscountCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BitcoinDark to complete</source>
+        <source>Wallet needed to be rewritten: restart DiscountCoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3245,7 +3245,7 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BitcoinDark is probably already running.</source>
+        <source>Unable to bind to %s on this computer. DiscountCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

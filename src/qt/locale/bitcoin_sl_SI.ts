@@ -3,13 +3,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BitcoinDark</source>
-        <translation>O BitcoinDark</translation>
+        <source>About DiscountCoin</source>
+        <translation>O DiscountCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BitcoinDark&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;BitcoinDark&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;DiscountCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;DiscountCoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BitcoinDark addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši BitcoinDark naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your DiscountCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši DiscountCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BitcoinDark address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva BitcoinDark naslova</translation>
+        <source>Sign a message to prove you own a DiscountCoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva DiscountCoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BitcoinDark address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim BitcoinDark naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified DiscountCoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim DiscountCoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>BitcoinDark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BitcoinDark se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>DiscountCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>DiscountCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BitcoinDark</source>
-        <translation>Pokaži informacije o BitcoinDark</translation>
+        <source>Show information about DiscountCoin</source>
+        <translation>Pokaži informacije o DiscountCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,12 +425,12 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a BitcoinDark address</source>
-        <translation>Pošlji kovance na BitcoinDark naslov</translation>
+        <source>Send coins to a DiscountCoin address</source>
+        <translation>Pošlji kovance na DiscountCoin naslov</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for BitcoinDark</source>
+        <source>Modify configuration options for DiscountCoin</source>
         <translation>Spremeni nastavitve za BTestcoin</translation>
     </message>
     <message>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>BitcoinDark</source>
-        <translation>BitcoinDark</translation>
+        <source>DiscountCoin</source>
+        <translation>DiscountCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About BitcoinDark</source>
-        <translation>&amp;O BitcoinDark</translation>
+        <source>&amp;About DiscountCoin</source>
+        <translation>&amp;O DiscountCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BitcoinDark client</source>
-        <translation>BitcoinDark program</translation>
+        <source>DiscountCoin client</source>
+        <translation>DiscountCoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BitcoinDark network</source>
-        <translation><numerusform>%n aktivne povezave na BitcoinDark omrežje</numerusform><numerusform>%n aktivnih povezav na BitcoinDark omrežje</numerusform><numerusform>%n aktivnih povezav na BitcoinDark omrežje</numerusform><numerusform>%n aktivnih povezav na BitcoinDark omrežje</numerusform></translation>
+        <source>%n active connection(s) to DiscountCoin network</source>
+        <translation><numerusform>%n aktivne povezave na DiscountCoin omrežje</numerusform><numerusform>%n aktivnih povezav na DiscountCoin omrežje</numerusform><numerusform>%n aktivnih povezav na DiscountCoin omrežje</numerusform><numerusform>%n aktivnih povezav na DiscountCoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BitcoinDark address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega BitcoinDark naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid DiscountCoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega DiscountCoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BitcoinDark can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program BitcoinDark se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. DiscountCoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program DiscountCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BitcoinDark address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven BitcoinDark naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid DiscountCoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven DiscountCoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BitcoinDark-Qt</source>
-        <translation>BitcoinDark-Qt</translation>
+        <source>DiscountCoin-Qt</source>
+        <translation>DiscountCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BitcoinDark after logging in to the system.</source>
-        <translation>Avtomatično zaženi BitcoinDark ob zagonu sistema.</translation>
+        <source>Automatically start DiscountCoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi DiscountCoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BitcoinDark on system login</source>
-        <translation>&amp;Zaženi BitcoinDark ob prijavi v sistem</translation>
+        <source>&amp;Start DiscountCoin on system login</source>
+        <translation>&amp;Zaženi DiscountCoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BitcoinDark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za BitcoinDark program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the DiscountCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za DiscountCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BitcoinDark network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na BitcoinDark omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the DiscountCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na DiscountCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BitcoinDark.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu BitcoinDark aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DiscountCoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu DiscountCoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BitcoinDark addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza BitcoinDark naslovov v seznamu transakcij.</translation>
+        <source>Whether to show DiscountCoin addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza DiscountCoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BitcoinDark.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu BitcoinDark aplikacije</translation>
+        <source>This setting will take effect after restarting DiscountCoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu DiscountCoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BitcoinDark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z BitcoinDark omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DiscountCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z DiscountCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BitcoinDark-Qt help message to get a list with possible BitcoinDark command-line options.</source>
-        <translation>Prikaži BitcoinDark-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice BitcoinDark aplikacije</translation>
+        <source>Show the DiscountCoin-Qt help message to get a list with possible DiscountCoin command-line options.</source>
+        <translation>Prikaži DiscountCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice DiscountCoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>BitcoinDark - Debug window</source>
-        <translation>BitcoinDark - okno za odpravljanje napak</translation>
+        <source>DiscountCoin - Debug window</source>
+        <translation>DiscountCoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BitcoinDark Core</source>
-        <translation>BitcoinDark jedro</translation>
+        <source>DiscountCoin Core</source>
+        <translation>DiscountCoin jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BitcoinDark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri BitcoinDark datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the DiscountCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri DiscountCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BitcoinDark RPC console.</source>
-        <translation>Dobrodošli v BitcoinDark RPC konzoli.</translation>
+        <source>Welcome to the DiscountCoin RPC console.</source>
+        <translation>Dobrodošli v DiscountCoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Vnesite BitcoinDark naslov (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Vnesite DiscountCoin naslov (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BitcoinDark address</source>
-        <translation>OPOZORILO: Neveljaven BitcoinDark naslov</translation>
+        <source>WARNING: Invalid DiscountCoin address</source>
+        <translation>OPOZORILO: Neveljaven DiscountCoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Vnesite BitcoinDark naslov (npr. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Vnesite DiscountCoin naslov (npr. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BitcoinDark address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva BitcoinDark naslova</translation>
+        <source>Sign the message to prove you own this DiscountCoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva DiscountCoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BitcoinDark address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim BitcoinDark naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified DiscountCoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim DiscountCoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Vnesite BitcoinDark naslov (npr. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Vnesite DiscountCoin naslov (npr. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BitcoinDark signature</source>
-        <translation>Vnesite BitcoinDark podpis</translation>
+        <source>Enter DiscountCoin signature</source>
+        <translation>Vnesite DiscountCoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BitcoinDark version</source>
-        <translation>BitcoinDark različica</translation>
+        <source>DiscountCoin version</source>
+        <translation>DiscountCoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,7 +2623,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or BitcoinDarkd</source>
+        <source>Send command to -server or DiscountCoind</source>
         <translation>Pošlji ukaz na -server ali Testoind</translation>
     </message>
     <message>
@@ -2643,13 +2643,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: BitcoinDark.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: BitcoinDark.conf)</translation>
+        <source>Specify configuration file (default: DiscountCoin.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: DiscountCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: BitcoinDarkd.pid)</source>
-        <translation>Določi pid datoteko (privzeto: BitcoinDark.pid)</translation>
+        <source>Specify pid file (default: DiscountCoind.pid)</source>
+        <translation>Določi pid datoteko (privzeto: DiscountCoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BitcoinDark will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno BitcoinDark ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DiscountCoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno DiscountCoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,24 +2988,24 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=BitcoinDarkrpc
+rpcuser=DiscountCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;DiscountCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
 Priporočeno je, da uporabite naslednje naključno geslo:
-rpcuser=BitcoinDarkrpc
+rpcuser=DiscountCoinrpc
 rpcpassword=%s
 (tega gesla si vam ni potrebno zapomniti)
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;DiscountCoin Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alarm&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BitcoinDark is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija BitcoinDark je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  DiscountCoin is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija DiscountCoin je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>BitcoinDark</source>
-        <translation>BitcoinDark</translation>
+        <source>DiscountCoin</source>
+        <translation>DiscountCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alarm&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BitcoinDark</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo BitcoinDark</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of DiscountCoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo DiscountCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BitcoinDark to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite BitcoinDark za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart DiscountCoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite DiscountCoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alarm&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BitcoinDark is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča BitcoinDark aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. DiscountCoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča DiscountCoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

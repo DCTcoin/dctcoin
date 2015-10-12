@@ -3,13 +3,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BitcoinDark</source>
-        <translation>Au sujet de BitcoinDark</translation>
+        <source>About DiscountCoin</source>
+        <translation>Au sujet de DiscountCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BitcoinDark&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;BitcoinDark&lt;/b&gt;</translation>
+        <source>&lt;b&gt;DiscountCoin&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;DiscountCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -18,7 +18,7 @@ Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The BitcoinDark developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs BitcoinDark</translation>
+Copyright © 2014 Les développeurs DiscountCoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BitcoinDark addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your DiscountCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BitcoinDark address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse BitcoinDark</translation>
+        <source>Sign a message to prove you own a DiscountCoin address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse DiscountCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BitcoinDark address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse BitcoinDark spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified DiscountCoin address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse DiscountCoin spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,7 +237,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>ATTENTION : Si vous cryptez votre portefeuille et perdez votre passphrase, vous ne pourrez plus accéder à vos BitcoinDarks</translation>
+        <translation>ATTENTION : Si vous cryptez votre portefeuille et perdez votre passphrase, vous ne pourrez plus accéder à vos DiscountCoins</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>BitcoinDark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application BitcoinDark va désormais se terminer afin de finaliser le processus de cryptage. Merci de noter que le cryptage du portefeuille ne garantit pas de se prémunir du vol via l&apos;utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>DiscountCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application DiscountCoin va désormais se terminer afin de finaliser le processus de cryptage. Merci de noter que le cryptage du portefeuille ne garantit pas de se prémunir du vol via l&apos;utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BitcoinDark</source>
-        <translation>Afficher des informations au sujet du BitcoinDark</translation>
+        <source>Show information about DiscountCoin</source>
+        <translation>Afficher des informations au sujet du DiscountCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a BitcoinDark address</source>
-        <translation>Envoyer des monnaies vers une adresse BitcoinDark</translation>
+        <source>Send coins to a DiscountCoin address</source>
+        <translation>Envoyer des monnaies vers une adresse DiscountCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for BitcoinDark</source>
-        <translation>Modification des options de configuration de BitcoinDark</translation>
+        <source>Modify configuration options for DiscountCoin</source>
+        <translation>Modification des options de configuration de DiscountCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>BitcoinDark</source>
-        <translation>BitcoinDark</translation>
+        <source>DiscountCoin</source>
+        <translation>DiscountCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About BitcoinDark</source>
-        <translation>A propos de BitcoinDark</translation>
+        <source>&amp;About DiscountCoin</source>
+        <translation>A propos de DiscountCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BitcoinDark client</source>
-        <translation>Client BitcoinDark</translation>
+        <source>DiscountCoin client</source>
+        <translation>Client DiscountCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BitcoinDark network</source>
-        <translation><numerusform>%n connexion active au réseau BitcoinDark</numerusform><numerusform>%n connexions actives au réseau BitcoinDark</numerusform></translation>
+        <source>%n active connection(s) to DiscountCoin network</source>
+        <translation><numerusform>%n connexion active au réseau DiscountCoin</numerusform><numerusform>%n connexions actives au réseau DiscountCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BitcoinDark address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille BitcoinDark n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid DiscountCoin address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille DiscountCoin n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BitcoinDark can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application BitcoinDark ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
+        <source>A fatal error occurred. DiscountCoin can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application DiscountCoin ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BitcoinDark address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse BitcoinDark valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid DiscountCoin address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse DiscountCoin valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BitcoinDark-Qt</source>
-        <translation>BitcoinDark-Qt</translation>
+        <source>DiscountCoin-Qt</source>
+        <translation>DiscountCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BitcoinDark after logging in to the system.</source>
-        <translation>Démarrage automatique du client BitcoinDark lors de la connexion au système</translation>
+        <source>Automatically start DiscountCoin after logging in to the system.</source>
+        <translation>Démarrage automatique du client DiscountCoin lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BitcoinDark on system login</source>
-        <translation>&amp;Démarrage du client BitcoinDark à la connexion au système</translation>
+        <source>&amp;Start DiscountCoin on system login</source>
+        <translation>&amp;Démarrage du client DiscountCoin à la connexion au système</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BitcoinDark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouverture automatique du port client de BitcoinDark sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the DiscountCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouverture automatique du port client de DiscountCoin sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BitcoinDark network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau BitcoinDark à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
+        <source>Connect to the DiscountCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau DiscountCoin à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BitcoinDark.</source>
-        <translation>La langue d&apos;interface de de l&apos;utilisateur peut être définie ici. Ces modification seront effectives après redémarrage de l&apos;application BitcoinDark</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DiscountCoin.</source>
+        <translation>La langue d&apos;interface de de l&apos;utilisateur peut être définie ici. Ces modification seront effectives après redémarrage de l&apos;application DiscountCoin</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BitcoinDark addresses in the transaction list or not.</source>
-        <translation>Afficher les adresses BitcoinDark au sein de la liste de transactions</translation>
+        <source>Whether to show DiscountCoin addresses in the transaction list or not.</source>
+        <translation>Afficher les adresses DiscountCoin au sein de la liste de transactions</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BitcoinDark.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client BitcoinDark</translation>
+        <source>This setting will take effect after restarting DiscountCoin.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client DiscountCoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BitcoinDark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau BitcoinDark mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DiscountCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau DiscountCoin mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BitcoinDark-Qt help message to get a list with possible BitcoinDark command-line options.</source>
-        <translation>Afficher le message d&apos;aide BitcoinDark-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande BitcoinDark</translation>
+        <source>Show the DiscountCoin-Qt help message to get a list with possible DiscountCoin command-line options.</source>
+        <translation>Afficher le message d&apos;aide DiscountCoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande DiscountCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-104"/>
-        <source>BitcoinDark - Debug window</source>
-        <translation>BitcoinDark - Fenêtre de déboggage</translation>
+        <source>DiscountCoin - Debug window</source>
+        <translation>DiscountCoin - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BitcoinDark Core</source>
-        <translation>BitcoinDark Core</translation>
+        <source>DiscountCoin Core</source>
+        <translation>DiscountCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BitcoinDark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug BitcoinDark au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the DiscountCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug DiscountCoin au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BitcoinDark RPC console.</source>
-        <translation>Bienvenue sur la console BitcoinDark RPC.</translation>
+        <source>Welcome to the DiscountCoin RPC console.</source>
+        <translation>Bienvenue sur la console DiscountCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Entrer une adresse BitcoinDark (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Entrer une adresse DiscountCoin (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BitcoinDark address</source>
-        <translation>AVERTISSEMENT: Adresse BitcoinDark Invalide</translation>
+        <source>WARNING: Invalid DiscountCoin address</source>
+        <translation>AVERTISSEMENT: Adresse DiscountCoin Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1867,7 +1867,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMET: Adresse BitcoinDark Invalide</translation>
+        <translation>AVERTISSEMET: Adresse DiscountCoin Invalide</translation>
     </message>
 </context>
 <context>
@@ -1930,8 +1930,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Entrer une adresse BitcoinDark (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Entrer une adresse DiscountCoin (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1955,7 +1955,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Entrer une adresse BitcoinDark (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <translation>Entrer une adresse DiscountCoin (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1991,8 +1991,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BitcoinDark address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse BitcoinDark</translation>
+        <source>Sign the message to prove you own this DiscountCoin address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse DiscountCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BitcoinDark address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse BitcoinDark spécifique.</translation>
+        <source>Verify the message to ensure it was signed with the specified DiscountCoin address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse DiscountCoin spécifique.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Entrer une adresse BitcoinDark (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Entrer une adresse DiscountCoin (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BitcoinDark signature</source>
-        <translation>Entrer une signature BitcoinDark</translation>
+        <source>Enter DiscountCoin signature</source>
+        <translation>Entrer une signature DiscountCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BitcoinDark version</source>
-        <translation>Version BitcoinDark</translation>
+        <source>DiscountCoin version</source>
+        <translation>Version DiscountCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or BitcoinDarkd</source>
-        <translation>Envoyer commande à -server ou BitcoinDarkd</translation>
+        <source>Send command to -server or DiscountCoind</source>
+        <translation>Envoyer commande à -server ou DiscountCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: BitcoinDark.conf)</source>
-        <translation>Spécifier le fichier de configuration (defaut: BitcoinDark.conf)</translation>
+        <source>Specify configuration file (default: DiscountCoin.conf)</source>
+        <translation>Spécifier le fichier de configuration (defaut: DiscountCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: BitcoinDarkd.pid)</source>
-        <translation>Spécifier le fichier pid (defaut: BitcoinDarkd.pid)
+        <source>Specify pid file (default: DiscountCoind.pid)</source>
+        <translation>Spécifier le fichier pid (defaut: DiscountCoind.pid)
 </translation>
     </message>
     <message>
@@ -2801,8 +2801,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BitcoinDark will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. BitcoinDark ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DiscountCoin will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. DiscountCoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=BitcoinDarkrpc
+rpcuser=DiscountCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;DiscountCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, vous devez définir un mot de passe rpc &apos;rpcpassword&apos; au sein du fichier de configuration:
  %s
 Il est recommandé d&apos;utiliser le mot de passe aléatoire suivant:
-rpcuser=BitcoinDarkrpc
+rpcuser=DiscountCoinrpc
 rpcpassword=%s
 (il n&apos;est pas nécessaire de retenir ce mot de passe)
 Le nom d&apos;utilisateur et le mot de passe doivent IMPERATIVEMENT être différents.
 Si le fichier n&apos;existe pas, il est nécessaire de le créer, avec les droit de lecture au propriétaire seulement.
 Il est également recommandé d&apos;utiliser l&apos;option alertnotify afin d&apos;être notifié des problèmes;
-par exemple: alertnotify=echo %%s | mail -s &quot;Alerte BitcoinDark&quot; admin@foo.com
+par exemple: alertnotify=echo %%s | mail -s &quot;Alerte DiscountCoin&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3133,13 +3133,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte BitcoinDark&quot; admin
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BitcoinDark is probably already running.</source>
-        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application BitcoinDark est probablement déjà en cours d&apos;exécution</translation>
+        <source>Cannot obtain a lock on data directory %s.  DiscountCoin is probably already running.</source>
+        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application DiscountCoin est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>BitcoinDark</source>
-        <translation>BitcoinDark</translation>
+        <source>DiscountCoin</source>
+        <translation>DiscountCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,13 +3173,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte BitcoinDark&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BitcoinDark</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application BitcoinDark</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of DiscountCoin</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application DiscountCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BitcoinDark to complete</source>
-        <translation>le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application BitcoinDark</translation>
+        <source>Wallet needed to be rewritten: restart DiscountCoin to complete</source>
+        <translation>le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application DiscountCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3248,8 +3248,8 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte BitcoinDark&quot; admin
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BitcoinDark is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application BitcoinDark est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. DiscountCoin is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application DiscountCoin est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -3,13 +3,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BitcoinDark</source>
-        <translation>Despre BitcoinDark</translation>
+        <source>About DiscountCoin</source>
+        <translation>Despre DiscountCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BitcoinDark&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;BitcoinDark&lt;/b&gt;</translation>
+        <source>&lt;b&gt;DiscountCoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;DiscountCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BitcoinDark addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele BitcoinDark pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your DiscountCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele DiscountCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BitcoinDark address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BitcoinDark</translation>
+        <source>Sign a message to prove you own a DiscountCoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă DiscountCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BitcoinDark address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BitcoinDark</translation>
+        <source>Verify a message to ensure it was signed with a specified DiscountCoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă DiscountCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>BitcoinDark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BitcoinDark se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>DiscountCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>DiscountCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BitcoinDark</source>
-        <translation>Arată informații despre BitcoinDark</translation>
+        <source>Show information about DiscountCoin</source>
+        <translation>Arată informații despre DiscountCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a BitcoinDark address</source>
-        <translation>Trimite monede către o adresă BitcoinDark</translation>
+        <source>Send coins to a DiscountCoin address</source>
+        <translation>Trimite monede către o adresă DiscountCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for BitcoinDark</source>
-        <translation>Modifică opțiuni de configurare pentru BitcoinDark</translation>
+        <source>Modify configuration options for DiscountCoin</source>
+        <translation>Modifică opțiuni de configurare pentru DiscountCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-200"/>
-        <source>BitcoinDark</source>
-        <translation>BitcoinDark</translation>
+        <source>DiscountCoin</source>
+        <translation>DiscountCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About BitcoinDark</source>
-        <translation>Despre BitcoinDark</translation>
+        <source>&amp;About DiscountCoin</source>
+        <translation>Despre DiscountCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BitcoinDark client</source>
-        <translation>Clientul BitcoinDark</translation>
+        <source>DiscountCoin client</source>
+        <translation>Clientul DiscountCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BitcoinDark network</source>
-        <translation><numerusform>%n conexiune activă la reteaua BitcoinDark</numerusform><numerusform>%n conexiuni active la reteaua BitcoinDark</numerusform><numerusform>%n conexiuni active la reteaua BitcoinDark</numerusform></translation>
+        <source>%n active connection(s) to DiscountCoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua DiscountCoin</numerusform><numerusform>%n conexiuni active la reteaua DiscountCoin</numerusform><numerusform>%n conexiuni active la reteaua DiscountCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BitcoinDark address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa BitcoinDark invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid DiscountCoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa DiscountCoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BitcoinDark can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. BitcoinDark nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. DiscountCoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. DiscountCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BitcoinDark address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă BitcoinDark validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid DiscountCoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă DiscountCoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BitcoinDark-Qt</source>
-        <translation>BitcoinDark-Qt</translation>
+        <source>DiscountCoin-Qt</source>
+        <translation>DiscountCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BitcoinDark after logging in to the system.</source>
-        <translation>Pornește BitcoinDark imdiat după logarea în sistem</translation>
+        <source>Automatically start DiscountCoin after logging in to the system.</source>
+        <translation>Pornește DiscountCoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BitcoinDark on system login</source>
-        <translation>$Pornește BitcoinDark la logarea în sistem</translation>
+        <source>&amp;Start DiscountCoin on system login</source>
+        <translation>$Pornește DiscountCoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BitcoinDark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul BitcoinDark pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the DiscountCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul DiscountCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BitcoinDark network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua BitcoinDark prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the DiscountCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua DiscountCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BitcoinDark.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea BitcoinDark.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DiscountCoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea DiscountCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BitcoinDark addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese BitcoinDark din lista de tranzacție sau nu.</translation>
+        <source>Whether to show DiscountCoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese DiscountCoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BitcoinDark.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea BitcoinDark.</translation>
+        <source>This setting will take effect after restarting DiscountCoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea DiscountCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BitcoinDark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua BitcoinDark după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DiscountCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua DiscountCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BitcoinDark-Qt help message to get a list with possible BitcoinDark command-line options.</source>
-        <translation>Afișa mesajul de ajutor BitcoinDark-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă BitcoinDark.</translation>
+        <source>Show the DiscountCoin-Qt help message to get a list with possible DiscountCoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor DiscountCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă DiscountCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>BitcoinDark - Debug window</source>
-        <translation>BitcoinDark - fereastră depanare</translation>
+        <source>DiscountCoin - Debug window</source>
+        <translation>DiscountCoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BitcoinDark Core</source>
-        <translation>BitcoinDark Core</translation>
+        <source>DiscountCoin Core</source>
+        <translation>DiscountCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BitcoinDark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare BitcoinDark din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the DiscountCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare DiscountCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BitcoinDark RPC console.</source>
-        <translation>Bine ati venit la consola BitcoinDark RPC.</translation>
+        <source>Welcome to the DiscountCoin RPC console.</source>
+        <translation>Bine ati venit la consola DiscountCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introduceți o adresă BitcoinDark(ex:RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introduceți o adresă DiscountCoin(ex:RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BitcoinDark address</source>
-        <translation>Atenție: Adresă BitcoinDark invalidă</translation>
+        <source>WARNING: Invalid DiscountCoin address</source>
+        <translation>Atenție: Adresă DiscountCoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introduceți o adresă BitcoinDark(ex:RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introduceți o adresă DiscountCoin(ex:RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BitcoinDark address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BitcoinDark</translation>
+        <source>Sign the message to prove you own this DiscountCoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă DiscountCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BitcoinDark address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BitcoinDark</translation>
+        <source>Verify the message to ensure it was signed with the specified DiscountCoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă DiscountCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introduceți o adresă BitcoinDark(ex:RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introduceți o adresă DiscountCoin(ex:RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BitcoinDark signature</source>
-        <translation>Introduceti semnatura BitcoinDark</translation>
+        <source>Enter DiscountCoin signature</source>
+        <translation>Introduceti semnatura DiscountCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BitcoinDark version</source>
-        <translation>Versiune BitcoinDark</translation>
+        <source>DiscountCoin version</source>
+        <translation>Versiune DiscountCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or BitcoinDarkd</source>
-        <translation>Trimite comanda catre server sau BitcoinDarkd</translation>
+        <source>Send command to -server or DiscountCoind</source>
+        <translation>Trimite comanda catre server sau DiscountCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: BitcoinDark.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: BitcoinDark.conf)</translation>
+        <source>Specify configuration file (default: DiscountCoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: DiscountCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: BitcoinDarkd.pid)</source>
-        <translation>Speficica fisier pid(implicit: BitcoinDark.pid)</translation>
+        <source>Specify pid file (default: DiscountCoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: DiscountCoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BitcoinDark will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit BitcoinDark nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DiscountCoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit DiscountCoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,22 +2990,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=BitcoinDarkrpc
+rpcuser=DiscountCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;DiscountCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=BitcoinDarkrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=DiscountCoinrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;DiscountCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BitcoinDark is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  DiscountCoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Testoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>BitcoinDark</source>
-        <translation>BitcoinDark</translation>
+        <source>DiscountCoin</source>
+        <translation>DiscountCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BitcoinDark</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de BitcoinDark</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of DiscountCoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de DiscountCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BitcoinDark to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați BitcoinDark pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart DiscountCoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați DiscountCoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BitcoinDark is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil BitcoinDark ruleaza</translation>
+        <source>Unable to bind to %s on this computer. DiscountCoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil DiscountCoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

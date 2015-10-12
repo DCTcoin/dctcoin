@@ -42,15 +42,15 @@ CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Starting Difficulty: results w
 CBigNum bnProofOfStakeLimit(~uint256(0) >> 20);
 CBigNum bnProofOfWorkLimitTestNet(~uint256(0) >> 16);
 
-static const int64_t nTargetTimespan = 60 * 60;  // BitcoinDark - every 1 hour
-unsigned int nTargetSpacing = 1 * 60; // BitcoinDark - 1 minute
+static const int64_t nTargetTimespan = 60 * 60;  // DiscountCoin - every 1 hour
+unsigned int nTargetSpacing = 1 * 60; // DiscountCoin - 1 minute
 static const int64_t nInterval = nTargetTimespan / nTargetSpacing;
 
 static const int64_t nDiffChangeTarget = 1;
 
-unsigned int nStakeMinAge = 8 * 60 * 60; // BitcoinDark - 8 hours
-unsigned int nStakeMaxAge = -1; // BitcoinDark - unlimited
-unsigned int nModifierInterval = 10 * 60; // BitcoinDark - time to elapse before new modifier is computed
+unsigned int nStakeMinAge = 8 * 60 * 60; // DiscountCoin - 8 hours
+unsigned int nStakeMaxAge = -1; // DiscountCoin - unlimited
+unsigned int nModifierInterval = 10 * 60; // DiscountCoin - time to elapse before new modifier is computed
 
 int nCoinbaseMaturity = 100;
 CBlockIndex* pindexGenesisBlock = NULL;
@@ -75,7 +75,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "BitcoinDark Signed Message:\n";
+const string strMessageMagic = "DiscountCoin Signed Message:\n";
 
 // Settings
 int64_t nTransactionFee = MIN_TX_FEE;
@@ -2410,7 +2410,7 @@ bool CheckDiskSpace(uint64_t nAdditionalBytes)
         string strMessage = _("Warning: Disk space is low!");
         strMiscWarning = strMessage;
         printf("*** %s\n", strMessage.c_str());
-        uiInterface.ThreadSafeMessageBox(strMessage, "BitcoinDark", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
+        uiInterface.ThreadSafeMessageBox(strMessage, "DiscountCoin", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
         StartShutdown();
         return false;
     }

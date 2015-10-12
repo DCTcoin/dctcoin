@@ -314,7 +314,7 @@ Value getcheckpoint(const Array& params, bool fHelp)
 }
 
 //staker dividends
-//BTCDDev
+//DCTDev
 
 char *unstringify(char *str)
 {
@@ -367,7 +367,7 @@ Value getstakers(const Array& params, bool fHelp)
 	{
 		amount = params[2].get_real();
 	    if( amount / (max - nHeight + 1) < 1)
-		    throw runtime_error("Amount is less than 1 BTCD per staker.");
+		    throw runtime_error("Amount is less than 1 DCT per staker.");
 	    amountEach = amount/(max-nHeight+1);
         amtProvided = 1;
 	}

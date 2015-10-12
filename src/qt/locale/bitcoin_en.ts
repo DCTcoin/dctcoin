@@ -5,13 +5,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BitcoinDark</source>
-        <translation>About BitcoinDark</translation>
+        <source>About DiscountCoin</source>
+        <translation>About DiscountCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BitcoinDark&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;BitcoinDark&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;DiscountCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;DiscountCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -65,8 +65,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BitcoinDark addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your BitcoinDark addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your DiscountCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your DiscountCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BitcoinDark address</source>
-        <translation>Sign a message to prove you own a BitcoinDark address</translation>
+        <source>Sign a message to prove you own a DiscountCoin address</source>
+        <translation>Sign a message to prove you own a DiscountCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BitcoinDark address</source>
-        <translation>Verify a message to ensure it was signed with a specified BitcoinDark address</translation>
+        <source>Verify a message to ensure it was signed with a specified DiscountCoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified DiscountCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>BitcoinDark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BitcoinDark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>DiscountCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>DiscountCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BitcoinDark</source>
-        <translation>Show information about BitcoinDark</translation>
+        <source>Show information about DiscountCoin</source>
+        <translation>Show information about DiscountCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a BitcoinDark address</source>
-        <translation>Send coins to a BitcoinDark address</translation>
+        <source>Send coins to a DiscountCoin address</source>
+        <translation>Send coins to a DiscountCoin address</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for BitcoinDark</source>
-        <translation>Modify configuration options for BitcoinDark</translation>
+        <source>Modify configuration options for DiscountCoin</source>
+        <translation>Modify configuration options for DiscountCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>BitcoinDark</source>
-        <translation>BitcoinDark</translation>
+        <source>DiscountCoin</source>
+        <translation>DiscountCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About BitcoinDark</source>
-        <translation>&amp;About BitcoinDark</translation>
+        <source>&amp;About DiscountCoin</source>
+        <translation>&amp;About DiscountCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,15 +542,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BitcoinDark client</source>
-        <translation>BitcoinDark client</translation>
+        <source>DiscountCoin client</source>
+        <translation>DiscountCoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BitcoinDark network</source>
+        <source>%n active connection(s) to DiscountCoin network</source>
         <translation>
-            <numerusform>%n active connection to BitcoinDark network</numerusform>
-            <numerusform>%n active connections to BitcoinDark network</numerusform>
+            <numerusform>%n active connection to DiscountCoin network</numerusform>
+            <numerusform>%n active connections to DiscountCoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -677,8 +677,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BitcoinDark address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid BitcoinDark address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid DiscountCoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid DiscountCoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -749,8 +749,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BitcoinDark can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. BitcoinDark can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. DiscountCoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. DiscountCoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1069,8 +1069,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BitcoinDark address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid BitcoinDark address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid DiscountCoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid DiscountCoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1088,8 +1088,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>BitcoinDark-Qt</source>
-        <translation>BitcoinDark-Qt</translation>
+        <source>DiscountCoin-Qt</source>
+        <translation>DiscountCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1161,13 +1161,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BitcoinDark after logging in to the system.</source>
-        <translation>Automatically start BitcoinDark after logging in to the system.</translation>
+        <source>Automatically start DiscountCoin after logging in to the system.</source>
+        <translation>Automatically start DiscountCoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BitcoinDark on system login</source>
-        <translation>&amp;Start BitcoinDark on system login</translation>
+        <source>&amp;Start DiscountCoin on system login</source>
+        <translation>&amp;Start DiscountCoin on system login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1186,8 +1186,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BitcoinDark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the BitcoinDark client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the DiscountCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the DiscountCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1196,8 +1196,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BitcoinDark network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the BitcoinDark network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the DiscountCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the DiscountCoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1271,8 +1271,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BitcoinDark.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting BitcoinDark.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DiscountCoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting DiscountCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1286,8 +1286,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BitcoinDark addresses in the transaction list or not.</source>
-        <translation>Whether to show BitcoinDark addresses in the transaction list or not.</translation>
+        <source>Whether to show DiscountCoin addresses in the transaction list or not.</source>
+        <translation>Whether to show DiscountCoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1333,8 +1333,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BitcoinDark.</source>
-        <translation>This setting will take effect after restarting BitcoinDark.</translation>
+        <source>This setting will take effect after restarting DiscountCoin.</source>
+        <translation>This setting will take effect after restarting DiscountCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1352,8 +1352,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BitcoinDark network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the BitcoinDark network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DiscountCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the DiscountCoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1568,8 +1568,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BitcoinDark-Qt help message to get a list with possible BitcoinDark command-line options.</source>
-        <translation>Show the BitcoinDark-Qt help message to get a list with possible BitcoinDark command-line options.</translation>
+        <source>Show the DiscountCoin-Qt help message to get a list with possible DiscountCoin command-line options.</source>
+        <translation>Show the DiscountCoin-Qt help message to get a list with possible DiscountCoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1588,13 +1588,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>BitcoinDark - Debug window</source>
-        <translation>BitcoinDark - Debug window</translation>
+        <source>DiscountCoin - Debug window</source>
+        <translation>DiscountCoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BitcoinDark Core</source>
-        <translation>BitcoinDark Core</translation>
+        <source>DiscountCoin Core</source>
+        <translation>DiscountCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1603,8 +1603,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BitcoinDark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the BitcoinDark debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the DiscountCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the DiscountCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1613,8 +1613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BitcoinDark RPC console.</source>
-        <translation>Welcome to the BitcoinDark RPC console.</translation>
+        <source>Welcome to the DiscountCoin RPC console.</source>
+        <translation>Welcome to the DiscountCoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1772,8 +1772,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1872,7 +1872,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BitcoinDark address</source>
+        <source>WARNING: Invalid DiscountCoin address</source>
         <translation></translation>
     </message>
     <message>
@@ -1946,8 +1946,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -2007,8 +2007,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BitcoinDark address</source>
-        <translation>Sign the message to prove you own this BitcoinDark address</translation>
+        <source>Sign the message to prove you own this DiscountCoin address</source>
+        <translation>Sign the message to prove you own this DiscountCoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2039,8 +2039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BitcoinDark address</source>
-        <translation>Verify the message to ensure it was signed with the specified BitcoinDark address</translation>
+        <source>Verify the message to ensure it was signed with the specified DiscountCoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified DiscountCoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2050,8 +2050,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Enter a BitcoinDark address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Enter a DiscountCoin address (e.g. RJhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2060,8 +2060,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BitcoinDark signature</source>
-        <translation>Enter BitcoinDark signature</translation>
+        <source>Enter DiscountCoin signature</source>
+        <translation>Enter DiscountCoin signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2643,8 +2643,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BitcoinDark version</source>
-        <translation>BitcoinDark version</translation>
+        <source>DiscountCoin version</source>
+        <translation>DiscountCoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2653,8 +2653,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or BitcoinDarkd</source>
-        <translation>Send command to -server or BitcoinDarkd</translation>
+        <source>Send command to -server or DiscountCoind</source>
+        <translation>Send command to -server or DiscountCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2673,13 +2673,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: BitcoinDark.conf)</source>
-        <translation>Specify configuration file (default: BitcoinDark.conf)</translation>
+        <source>Specify configuration file (default: DiscountCoin.conf)</source>
+        <translation>Specify configuration file (default: DiscountCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: BitcoinDarkd.pid)</source>
-        <translation>Specify pid file (default: BitcoinDarkd.pid)</translation>
+        <source>Specify pid file (default: DiscountCoind.pid)</source>
+        <translation>Specify pid file (default: DiscountCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2828,8 +2828,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BitcoinDark will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BitcoinDark will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DiscountCoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DiscountCoin will not work properly.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3017,13 +3017,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=BitcoinDarkrpc
+rpcuser=DiscountCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;DiscountCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BitcoinDark is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  BitcoinDark is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  DiscountCoin is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  DiscountCoin is probably already running.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>BitcoinDark</source>
-        <translation>BitcoinDark</translation>
+        <source>DiscountCoin</source>
+        <translation>DiscountCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3189,13 +3189,13 @@ for example: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BitcoinDark</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of BitcoinDark</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of DiscountCoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of DiscountCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BitcoinDark to complete</source>
-        <translation>Wallet needed to be rewritten: restart BitcoinDark to complete</translation>
+        <source>Wallet needed to be rewritten: restart DiscountCoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart DiscountCoin to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3264,8 +3264,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BitcoinDark Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BitcoinDark is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. BitcoinDark is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. DiscountCoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. DiscountCoin is probably already running.</translation>
     </message>
     <message>
         <location line="-97"/>
