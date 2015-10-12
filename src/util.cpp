@@ -1080,9 +1080,9 @@ void createConf()       //Automatic DiscountCoin.conf generation
 
 	ofstream pConf;
 	pConf.open(GetConfigFile().generic_string().c_str());
-    const char* nodes =  "\nrpcport=14632"                  //List of known nodes, to be periodically updated
+    const char* nodes =  "\nrpcport=15632"                  //List of known nodes, to be periodically updated
 		                 "\nrpcallowip=127.0.0.1"
-		                 "\nport=14631"
+		                 "\nport=15631"
 		                 "\ndaemon=1"
 		                 "\nserver=1"
 		                 "\naddnode=146.185.188.6"

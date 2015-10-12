@@ -30,9 +30,9 @@ DiscountCoin Specifications
                           
 **PoW Target Blocktime**: 1 minute
 
-**RPC Port**: 14632
+**RPC Port**: 15632
 
-**Port**: 14631
+**Port**: 15631
 
 **Time to Maturity**: 100 Confirmations
 
