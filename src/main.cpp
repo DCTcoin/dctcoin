@@ -2526,9 +2526,9 @@ bool LoadBlockIndex(bool fAllowNew)
         //    CTxOut(empty)
         //  vMerkleTree: 12630d16a9
 
-        const char* pszTimestamp = "18 June 2014 - Bitoin your way to a double espresso - cnn.com";
+        const char* pszTimestamp = "DiscountCoin";
         CTransaction txNew;
-        txNew.nTime = 1403138561;
+        txNew.nTime = 1444849323;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2538,9 +2538,9 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1403138561;
+        block.nTime    = 1444849323;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = !fTestNet ? 8359109 : 294567;
+        block.nNonce   = !fTestNet ? 540040 : 294567;
 
 
 
