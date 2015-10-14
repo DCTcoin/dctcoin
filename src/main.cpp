@@ -2544,7 +2544,7 @@ bool LoadBlockIndex(bool fAllowNew)
 
 
 
-        assert(block.hashMerkleRoot == uint256("0xfd1751cc6963d88feca94c0d01da8883852647a37a0a67ce254d62dd8c9d5b2b"));
+        assert(block.hashMerkleRoot == uint256("0xec01d7884e36b2255c9c5e265e9dac51201acacf5eebb865edb2634f8e091d7f"));
 
 
 	    block.print();
