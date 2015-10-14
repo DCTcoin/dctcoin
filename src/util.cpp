@@ -1085,20 +1085,11 @@ void createConf()       //Automatic DiscountCoin.conf generation
 		                 "\nport=15631"
 		                 "\ndaemon=1"
 		                 "\nserver=1"
-		                 "\naddnode=146.185.188.6"
-		                 "\naddnode=54.85.50.15:50288" 
-		                 "\naddnode=ps00.DiscountCoin.ca"
-		                 "\naddnode=ps01.DiscountCoin.ca"
-		                 "\naddnode=ps02.DiscountCoin.ca"
-		                 "\naddnode=ps03.DiscountCoin.ca"
-		                 "\naddnode=ps04.DiscountCoin.ca"
-		                 "\naddnode=ps05.DiscountCoin.ca"
-		                 "\naddnode=ps06.DiscountCoin.ca"
-		                 "\naddnode=ps07.DiscountCoin.ca"
-		                 "\naddnode=ps08.DiscountCoin.ca"
-		                 "\naddnode=ps09.DiscountCoin.ca"
-		                 "\naddnode=192.99.246.20"
-		                 "\naddnode=89.248.160.241";
+		                 "\naddnode=209.126.68.243"
+		                 "\naddnode=209.126.68.244" 
+		                 "\naddnode=209.126.68.245"
+		                 "\naddnode=209.126.68.246"
+		                 "\naddnode=209.126.68.247";
 
 	pConf   << std::string("rpcuser=")
             +  randomStrGen(5)
