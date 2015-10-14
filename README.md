@@ -6,7 +6,7 @@ DiscountCoin
     What Is DiscountCoin? 
 ----------------------------
 
-DiscountCoin is a Proof of Stake Cryptocurrency. The first two weeks after release will consist of a two week Proof of Work period.
+DiscountCoin is a Proof of Stake Cryptocurrency.
 
 Why DiscountCoin?
 --------------------------
@@ -22,13 +22,9 @@ DiscountCoin Specifications
 
 **Proof of Work Algorithm**: SHA-256
 
-**Total Number of Coins**: 22 million
-
-**PoW Block Reward**: 80 DCT
-
-**PoW Blocks**: 20,160
+**Total Number of Coins**: 100 million
                           
-**PoW Target Blocktime**: 1 minute
+**Target Blocktime**: 1 minute
 
 **RPC Port**: 15632
 
@@ -36,7 +32,7 @@ DiscountCoin Specifications
 
 **Time to Maturity**: 100 Confirmations
 
-**Proof of Stake Reward**: 5% per year
+**Proof of Stake Reward**: 6% per year
 
 **Minimum Coin Stake Age**: 8 hours
 
